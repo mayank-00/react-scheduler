@@ -1,0 +1,311 @@
+/*  Colors ------------------------------------------------------------------------------------------------------ */
+.color-white {
+    color: white !important;
+}
+.color-primary {
+    color: #0159FA !important;
+}
+
+/* Background Colors ------------------------------------------------------------------------------------------------- */
+.bg-white {
+    background:white !important;
+}
+.bg-primary {
+    background: #3e82ff !important;
+}
+.bg-grey {
+    background-color: lightgrey !important;
+}
+.bg-red {
+    background-color: rgb(202, 72, 72) !important;
+    color: white !important;
+}
+/*  Padding Percentages ---------------------------------------------------------------------------------------------- */
+
+
+/* Padding in pixels -------------------------------------------------------------------------------------------------- */
+.py-30 {
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+}
+.pt-50 {
+    padding-top: 50px !important;
+}
+.py-50 {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+.px-100 {
+    padding-left: 100px !important;
+    padding-right: 100px !important;
+}
+.px-30 {
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+}
+.py-10 {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;    
+}
+.py-100 {
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;    
+}
+.p-50 {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;  
+    padding-left: 50px !important;
+    padding-right: 50px !important; 
+}
+/* Margin ---------------------------------------------------------------------------------------------------- */
+/* percentage */
+.ml-10-per {
+    margin-left: 10% !important;
+}
+.ml-55-per {
+    margin-left: 45% !important;
+}
+/* pixels */
+.m-0 {
+    margin: 0 !important;
+}
+.ml-0 {
+    margin-left: 0 !important;
+}
+.mr-0 {
+    margin-right: 0 !important;
+}
+.mt-0 {
+    margin-top: 0 !important;
+}
+.mb-0 {
+    margin-bottom: 0 !important;
+}
+.mx-0 {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+.my-0 {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+.ml-10 {
+    margin-left: 10px !important;
+}
+.mr-10 {
+    margin-right: 10px !important;
+}
+.mt-10 {
+    margin-top: 10px !important;
+}
+.mb-10 {
+    margin-bottom: 10px !important;
+}
+.mx-10 {
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+.my-10 {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+.ml-20 {
+    margin-left: 20px !important;
+}
+.mr-20 {
+    margin-right: 20px !important;
+}
+.mt-20 {
+    margin-top: 20px !important;
+}
+.mb-20 {
+    margin-bottom: 20px !important;
+}
+.mx-20 {
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+}
+.my-20 {
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
+.mt-30 {
+    margin-top:  30px !important;
+}
+.mr-50 {
+    margin-right: 50px !important;
+}
+.m-auto {
+    margin: auto !important;
+}
+/* Display properties  ------------------------------------------------------------------------------------------------- */
+.position-relative {
+    position: relative !important;
+}
+.position-absolute {
+    position: absolute !important;
+}
+.display-flex {
+    display: flex !important;
+}
+.display-inline-block {
+    display: inline-block !important;
+}
+.justify-center {
+    justify-content: center !important;
+}
+.justify-between {
+    justify-content: space-between !important;
+}
+.justify-end {
+    justify-content: end !important;
+}
+.justify-flex-end {
+    justify-content: flex-end !important;
+}
+.align-center {
+    align-items: center !important;
+}
+.float-right {
+    float: right !important;
+}
+/* Text properties ----------------------------------------------------------------------------------------------------- */
+.font-size-12 {
+    font-size: 12px !important;
+}
+.font-size-14 {
+    font-size: 14px !important;
+}
+.font-size-16 {
+    font-size: 16px !important;
+}
+.font-size-18 {
+    font-size: 18px !important;
+}
+.font-size-20 {
+    font-size: 20px !important;
+}
+.text-center {
+    text-align: center;
+}
+.text-right {
+    text-align: right;
+}
+.fw-500 {
+    font-weight: 500 !important;
+}
+.fw-600 {
+    font-weight: 600 !important;
+}
+/* z-index ---------------------------------------------------------------------------------------------- */
+.z-index-1 {
+    z-index: 1 !important;
+}
+.z-index-2 {
+    z-index: 2 !important;
+}
+.z-index-3 {
+    z-index: 3 !important;
+}
+
+/* height ----------------------------------------------------------------------------------------------- */
+/* percentages */
+.h-100-per {
+    height: 100% !important;
+}
+.h-50-per {
+    height: 50% !important;
+}
+.h-75-per {
+    height: 75% !important;
+}
+.h-25-per {
+    height: 25% !important;
+}
+/* pixels */
+.h-20 {
+    height: 20px !important;
+}
+
+/* max height -------------------------------------------------------------------------------------------- */
+.mh-20 {
+    max-height: 20px !important;
+}
+
+/* width ------------------------------------------------------------------------------------------------- */
+.w-100-per {
+    width: 100% !important;
+}
+.mw-500 {
+    max-width: 500px !important;
+}
+/* border radius ---------------------------------------------------------------------------------------- */
+.br-12 {
+    border-radius: 12px !important;
+}
+.br-24 {
+    border-radius: 24px !important;
+}
+.br-4{
+    border-radius: 4px !important;
+}
+.border-0 {
+    border: 0 !important;
+}
+.border-0:focus {
+    border: 0 !important;
+    outline: 0 !important;
+}
+.border-r-1 {
+    border-right: 1px solid lightgrey;
+}
+.border-1 {
+    border: 1px solid lightgrey;
+}
+
+/*  */
+.cursor-pointer {
+    cursor: pointer !important;
+}
+
+/* input */
+.form-input {
+    padding: 10px 15px;
+    border-radius: 12px;
+    border: 1px solid gainsboro;
+    color: gray;
+}
+.form-input:focus {
+    outline: 0;
+    box-shadow: 1px 1px gainsboro;
+}
+.form-input.error {
+    border-color: rgb(202, 72, 72);
+}
+.button {
+    padding: 12px 36px;
+    border-radius: 12px;
+    border: 0;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 600;
+}
+.button.secondary {
+    background-color: white;
+    border: 1px solid black;
+}
+.button.primary {
+    background-color: #0159FA;
+    color: white;
+}
+.button.small {
+    padding: 8px 24px;
+    font-size: 14px;
+    font-weight: 500;
+}
+/* general classes */
+.error-message {
+    color: red;
+    display: inline-block;
+    margin-bottom: 12px;
+}
